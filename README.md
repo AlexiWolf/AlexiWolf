@@ -1,24 +1,29 @@
-# Hi there, I'm Alexi  
+# Hi there, I'm Alexi
 
-Todo: Write a short intro / bio.
+I typically go by Lexi.
 
-## My Stats 
+### About Me
+
+A generalist programmer with an affinity for game development, code architecture, and back-end / library design.  I 
+enjoy cracking hard problems and writing rock-solid, high-quality code while doing it.  I occasionally take on 
+freelance work, and while I don't yet have much professional experience, I'm hoping to change that soon!
+
+- I'm currently spending most of my spare time working on [Wolf Engine](https::/github.com/AlexiWolf/wolf_engine), and 
+  participating in game jams.
+- I'm currently learning about game engine architecture and design.
+- I'm looking to collaborate on open source projects.
+
+### Programming Languages 
+
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+
+### My Stats 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexiWolf&layout=compact&)](https://github.com/anuraghazra/github-readme-stats)
 
 [![AlexiWolf's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexiWolf&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**AlexiWolf/AlexiWolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

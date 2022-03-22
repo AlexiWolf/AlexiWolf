@@ -6,7 +6,7 @@ Todo: Write a short intro / bio.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexiWolf&layout=compact&)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexiWolf&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![AlexiWolf's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexiWolf&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **AlexiWolf/AlexiWolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

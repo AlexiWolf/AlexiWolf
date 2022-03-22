@@ -5,7 +5,7 @@ I typically go by Lexi.
 ### About Me
 
 A generalist programmer with an affinity for game development, code architecture, and back-end / library design.  I 
-enjoy cracking hard problems and writing rock-solid, high-quality code while doing it.  I occasionally take on 
+enjoy cracking hard problems and writing stable, test-backed code while doing it.  I occasionally take on 
 freelance work, and while I don't yet have much professional experience, I'm hoping to change that soon!
 
 - I'm currently spending most of my spare time working on [Wolf Engine](https::/github.com/AlexiWolf/wolf_engine), and 

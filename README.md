@@ -23,7 +23,9 @@ freelance work, and while I don't yet have much professional experience, I'm hop
 
 ### My Stats 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexiWolf&layout=compact&)](https://github.com/anuraghazra/github-readme-stats)
-
-[![AlexiWolf's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexiWolf&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img style="width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexiWolf&layout=compact">
+</a>
+<a href="ttps://github.com/anuraghazra/github-readme-stats">
+  <img style="width: 50%; float=left;" src="https://github-readme-stats.vercel.app/api?username=AlexiWolf&count_private=true">
+</a>

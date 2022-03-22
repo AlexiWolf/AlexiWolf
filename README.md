@@ -1,4 +1,4 @@
-# Hi there, I'm Alexi
+# Hi There, I'm Alexi
 
 I typically go by Lexi.
 

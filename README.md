@@ -8,7 +8,7 @@ A generalist programmer with an affinity for game development, code architecture
 enjoy cracking hard problems and writing high-quality, test-backed code while doing it.  I occasionally take on 
 freelance work, and while I don't yet have much professional experience, I'm hoping to change that soon!
 
-- I'm currently spending most of my spare time working on [Wolf Engine](https::/github.com/AlexiWolf/wolf_engine), and 
+- I'm currently spending most of my spare time working on [Wolf Engine](https://github.com/AlexiWolf/wolf_engine), and 
   participating in game jams.
 - I'm currently learning about game engine architecture and design.
 - I'm looking to collaborate on open source projects.

@@ -1,17 +1,13 @@
-# Hi There, I'm Alexi
-
-I typically go by Lexi.
-
-### About Me
+# Hello, I'm Alexi
 
 A generalist programmer with an affinity for game development, code architecture, and back-end / library design.  I 
 enjoy cracking hard problems and writing high-quality, test-backed code while doing it.  I occasionally take on 
 freelance work, and while I don't yet have much professional experience, I'm hoping to change that soon!
 
-- I'm currently spending most of my spare time working on [Wolf Engine](https://github.com/AlexiWolf/wolf_engine), and 
-  participating in game jams.
-- I'm currently learning about game engine architecture and design.
-- I'm looking to collaborate on open source projects.
+### My Projects
+
+- [Wolf Engine](https://github.com/AlexiWolf/wolf_engine) - A custom game engine written in Rust.
+- [Wolf Engine SDL2](https://github.com/AlexiWolf/wolf_engine_sdl2) - Plugin for Wolf Engine providing SDL2 integration.
 
 ### Programming Languages 
 

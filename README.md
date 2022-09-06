@@ -6,11 +6,9 @@ freelance work, and while I don't yet have much professional experience, I'm hop
 
 ### Main Skills 
 
-<p>
 <img alt="Rust" src="https://img.shields.io/badge/-Rust-555555?logo=Rust&style=flat"/>
 <img alt="Python" src="https://img.shields.io/badge/-Python-blue?logo=Python&logoColor=f3ee2e"/>
 <img alt="Java" src="https://img.shields.io/badge/-Java-fe9c00?logo=Java&logoColor=white"/>
-</p>
 
 - Back-end Development
 - Game Development
@@ -18,9 +16,7 @@ freelance work, and while I don't yet have much professional experience, I'm hop
 
 ### Currently Learning
 
-<p>
 <img alt="Language" src="https://img.shields.io/badge/-Language-black?logo=C&logoColor=white">
-</p>
 
 - C Library Development in Rust
 - Low-level Graphics Programming

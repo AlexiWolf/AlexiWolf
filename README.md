@@ -1,15 +1,22 @@
 # Hello, I'm Lexi 🐺
 
 <img alt="Pronouns She%20%2F%20Her" src="https://img.shields.io/badge/Pronouns-She%20%2F%20Her-ff69b4">
-<a href="https://github.com/AlexiWolf">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/AlexiWolf?style=social">
-</a>
 <a href="https://matrix.org">
 <img 
   alt="Matrix %40alexiwolf%3Amatrix.org" 
   src="https://img.shields.io/badge/Matrix-%40alexiwolf%3Amatrix.org-blue?style=social&logo=Matrix"
 />
 </a>
+<a href="https://github.com/AlexiWolf">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/AlexiWolf?style=social">
+</a>
+<a href="mailto://alexiwolf@pm.me">
+<img 
+  alt="Email alexiwolf%40pm.me" 
+  src="https://img.shields.io/badge/Email-alexiwolf%40pm.me-blue?style=social&logo=ProtonMail"
+/>
+</a>
+
 
 A generalist programmer with an affinity for game development, code architecture, and back-end / library design.  I 
 enjoy cracking hard problems and writing high-quality, test-backed code while doing it.  I occasionally take on 

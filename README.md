@@ -1,27 +1,38 @@
-# Hello, I'm Alexi
+# Hello, I'm Lexi 🐺
 
 A generalist programmer with an affinity for game development, code architecture, and back-end / library design.  I 
 enjoy cracking hard problems and writing high-quality, test-backed code while doing it.  I occasionally take on 
 freelance work, and while I don't yet have much professional experience, I'm hoping to change that soon!
+
+### Main Skills 
+
+<p>
+<img alt="Rust" src="https://img.shields.io/badge/-Rust-555555?logo=Rust&style=flat"/>
+<img alt="Python" src="https://img.shields.io/badge/-Python-blue?logo=Python&logoColor=f3ee2e"/>
+<img alt="Java" src="https://img.shields.io/badge/-Java-fe9c00?logo=Java&logoColor=white"/>
+</p>
+
+- Back-end Development
+- Game Development
+- Game Engine Development
+
+### Currently Learning
+
+<p>
+<img alt="Language" src="https://img.shields.io/badge/-Language-black?logo=C&logoColor=white">
+</p>
+
+- C Library Development in Rust
+- Low-level Graphics Programming
 
 ### My Projects
 
 - [Wolf Engine](https://github.com/AlexiWolf/wolf_engine) - A custom game engine written in Rust.
 - [Wolf Engine SDL2](https://github.com/AlexiWolf/wolf_engine_sdl2) - Plugin for Wolf Engine providing SDL2 integration.
 
-### Programming Languages 
-
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-
 ### My Stats 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img style="width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexiWolf&layout=compact">
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img style="width: 50%;" src="https://github-readme-stats.vercel.app/api?username=AlexiWolf&count_private=true">
-</a>
+<div align="center">
+<img style="width: 80%; max-width: 500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexiWolf&layout=compact">
+<img style="width: 80%; max-width: 500px;" src="https://github-readme-stats.vercel.app/api?username=AlexiWolf&count_private=true"/>
+</div>

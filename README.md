@@ -1,5 +1,10 @@
 # Hello, I'm Lexi 🐺
 
+<img alt="Pronouns She%20%2F%20Her" src="https://img.shields.io/badge/Pronouns-She%20%2F%20Her-ff69b4">
+<a href="https://github.com/AlexiWolf">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/AlexiWolf?style=social">
+</a>
+
 A generalist programmer with an affinity for game development, code architecture, and back-end / library design.  I 
 enjoy cracking hard problems and writing high-quality, test-backed code while doing it.  I occasionally take on 
 freelance work, and while I don't yet have much professional experience, I'm hoping to change that soon!

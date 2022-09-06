@@ -46,6 +46,12 @@ freelance work, and while I don't yet have much professional experience, I'm hop
 ### My Stats 
 
 <div align="center">
-<img style="width: 80%; max-width: 500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexiWolf&layout=compact">
-<img style="width: 80%; max-width: 500px;" src="https://github-readme-stats.vercel.app/api?username=AlexiWolf&count_private=true"/>
+    <img 
+        style="width: 80%; max-width: 500px" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexiWolf&layout=compact"
+    />
+    <img 
+        style="width: 80%; max-width: 500px;" 
+        src="https://github-readme-stats.vercel.app/api?username=AlexiWolf&count_private=true"
+    />
 </div>

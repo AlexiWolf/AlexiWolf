@@ -31,9 +31,9 @@ freelance work, and while I don't yet have much professional experience, I'm hop
   <img alt="Java" src="https://img.shields.io/badge/-Java-fe9c00?logo=Java&logoColor=white"/>
 </span>
 
-- Back-end Development
-- Game Development
-- Game Engine Development
+- ⚙️ Back-end Development
+- 🎮 Game Development
+- 🚀 Game Engine Development
 
 ### Currently Learning
 
@@ -41,13 +41,13 @@ freelance work, and while I don't yet have much professional experience, I'm hop
   <img alt="Language" src="https://img.shields.io/badge/-Language-black?logo=C&logoColor=white">
 </span>
 
-- C Library Development in Rust
-- Low-level Graphics Programming
+- 🧰 C Library Development in Rust
+- 🖥️ Low-level Graphics Programming
 
 ### My Projects
 
-- [Wolf Engine](https://github.com/AlexiWolf/wolf_engine) - A custom game engine written in Rust.
-- [Wolf Engine SDL2](https://github.com/AlexiWolf/wolf_engine_sdl2) - Plugin for Wolf Engine providing SDL2 integration.
+- 🐺 [Wolf Engine](https://github.com/AlexiWolf/wolf_engine) - A custom game engine written in Rust.
+- 🛠️ [Wolf Engine SDL2](https://github.com/AlexiWolf/wolf_engine_sdl2) - Plugin for Wolf Engine providing SDL2 integration.
 
 ### My Stats 
 

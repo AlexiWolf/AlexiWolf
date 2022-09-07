@@ -18,6 +18,7 @@
       <img alt="GitHub followers" src="https://img.shields.io/github/followers/AlexiWolf?style=social">
   </a>
 </span>
+<br/>
 
 A generalist programmer with an affinity for game development, code architecture, and back-end / library design.  I 
 enjoy cracking hard problems and writing high-quality, test-backed code while doing it.  I occasionally take on 
@@ -30,6 +31,13 @@ freelance work, and while I don't yet have much professional experience, I'm hop
   <img alt="Python" src="https://img.shields.io/badge/-Python-blue?logo=Python&logoColor=f3ee2e"/>
   <img alt="Java" src="https://img.shields.io/badge/-Java-fe9c00?logo=Java&logoColor=white"/>
 </span>
+<br/>
+<span>
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-yellow?logo=Linux&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/-Git-f05032?logo=GitHub&logoColor=white">
+  <img alt="Neovim" src="https://img.shields.io/badge/-Neovim-57a143?logo=Neovim&logoColor=white">
+</span>
+<br/>
 
 - ⚙️ Back-end Development
 - 🎮 Game Development
@@ -40,6 +48,7 @@ freelance work, and while I don't yet have much professional experience, I'm hop
 <span>
   <img alt="Language" src="https://img.shields.io/badge/-Language-black?logo=C&logoColor=white">
 </span>
+<br/>
 
 - 🧰 C Library Development in Rust
 - 🖥️ Low-level Graphics Programming

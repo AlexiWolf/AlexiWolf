@@ -55,6 +55,7 @@ freelance work, and while I don't yet have much professional experience, I'm hop
   style="width: 450px;" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexiWolf&layout=compact"
 />
+<br/>
 <img 
   style="width: 450px;" 
   src="https://github-readme-stats.vercel.app/api?username=AlexiWolf&count_private=true"

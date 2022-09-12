@@ -14,9 +14,6 @@
       src="https://img.shields.io/badge/Email-alexiwolf%40pm.me-blue?style=social&logo=ProtonMail"
     />
   </a>
-  <a href="https://github.com/AlexiWolf">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/AlexiWolf?style=social">
-  </a>
   <a rel="me" href="https://meow.social/@AlexiWolf">
     <img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/108955894918920915?domain=https%3A%2F%2Fmeow.social&style=social">
   </a>

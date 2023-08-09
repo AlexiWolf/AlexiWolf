@@ -1,59 +1,12 @@
 # Hello, I'm Lexi 🐺
 
-<span>
-  <img alt="Pronouns She%20%2F%20Her" src="https://img.shields.io/badge/Pronouns-She%20%2F%20Her-ff69b4">
-  <a href="https://matrix.org">
-    <img 
-      alt="Matrix %40alexiwolf%3Amatrix.org" 
-      src="https://img.shields.io/badge/Matrix-%40alexiwolf%3Amatrix.org-blue?style=social&logo=Matrix"
-    />
-  </a>
-  <a href="mailto://alexiwolf@pm.me">
-    <img 
-      alt="Email alexiwolf%40pm.me" 
-      src="https://img.shields.io/badge/Email-alexiwolf%40pm.me-blue?style=social&logo=ProtonMail"
-    />
-  </a>
-  <a rel="me" href="https://meow.social/@AlexiWolf">
-    <img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/108955894918920915?domain=https%3A%2F%2Fmeow.social&style=social">
-  </a>
-</span>
-<br/>
+I'm a programmer, game-dev, and wanna-be human.
 
-A generalist programmer with an affinity for game development, code architecture, and back-end / library design.  I 
-enjoy cracking hard problems and writing high-quality, test-backed code while doing it.  I occasionally take on 
-freelance work, and while I don't yet have much professional experience, I'm hoping to change that soon!
-
-### Main Skills 
-
-<span>
-  <img alt="Rust" src="https://img.shields.io/badge/-Rust-555555?logo=Rust&style=flat"/>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-blue?logo=Python&logoColor=f3ee2e"/>
-  <img alt="Java" src="https://img.shields.io/badge/-Java-fe9c00?logo=Java&logoColor=white"/>
-</span>
-<br/>
-<span>
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-yellow?logo=Linux&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/-Git-f05032?logo=GitHub&logoColor=white">
-  <img alt="Neovim" src="https://img.shields.io/badge/-Neovim-57a143?logo=Neovim&logoColor=white">
-</span>
-<br/>
-
-- ⚙️ Back-end Development
-- 🎮 Game Development
-- 🚀 Game Engine Development
-
-### Currently Learning
-
-<span>
-  <img alt="Language" src="https://img.shields.io/badge/-Language-black?logo=C&logoColor=white">
-</span>
-<br/>
-
-- 🧰 C Library Development in Rust
-- 🖥️ Low-level Graphics Programming
+You can learn more about me on [my personal website](https://lexi.wolvesin.space/about).
 
 ### My Projects
+
+A quick overview of what I do.
 
 - 🐺 [Wolf Engine](https://github.com/AlexiWolf/wolf_engine) - A custom game engine written in Rust.
 - 🛠️ [Wolf Engine SDL2](https://github.com/AlexiWolf/wolf_engine_sdl2) - Plugin for Wolf Engine providing SDL2 integration.

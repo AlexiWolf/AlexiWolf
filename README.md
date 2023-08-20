@@ -9,7 +9,6 @@ You can learn more about me on [my personal website](https://lexi.wolvesin.space
 A quick overview of what I do.
 
 - 🐺 [Wolf Engine](https://github.com/AlexiWolf/wolf_engine) - A custom game engine written in Rust.
-- 🛠️ [Wolf Engine SDL2](https://github.com/AlexiWolf/wolf_engine_sdl2) - Plugin for Wolf Engine providing SDL2 integration.
 
 ### My Stats 
 
